@@ -644,6 +644,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 
+- [Vaibhav Padmani](https://vi0650.github.io/)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app)
